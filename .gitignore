@@ -1,4 +1,5 @@
 creds.py
-.env
+.venv
 __pycache__
 *.pyc
+.venvpytho
